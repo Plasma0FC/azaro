@@ -1,0 +1,44 @@
+{
+    "keys": {
+        "UpbhrMu3HOcrDHScPPVt0RfS": {
+            "tipo": "diario",
+            "duracao": 1,
+            "created_by": "1164942567608176691",
+            "created_at": "2025-07-07T00:12:13.197748",
+            "expires_at": "2025-07-08T00:12:13.197198",
+            "is_used": false,
+            "used_by": null,
+            "used_at": null
+        },
+        "cFG5L1X7cqDK5wKd2gqUlBcK": {
+            "tipo": "diario",
+            "duracao": 1,
+            "created_by": "1164942567608176691",
+            "created_at": "2025-07-07T00:23:28.960649",
+            "expires_at": "2025-07-08T00:23:28.960236",
+            "is_used": false,
+            "used_by": null,
+            "used_at": null
+        },
+        "KBzJe3h8dUAWbv2NKn3pT959": {
+            "tipo": "diario",
+            "duracao": 1,
+            "created_by": "1164942567608176691",
+            "created_at": "2025-07-07T00:31:06.624569",
+            "expires_at": "2025-07-08T00:31:06.620947",
+            "is_used": false,
+            "used_by": null,
+            "used_at": null
+        },
+        "WnrvOuEW9ml1P8rfjT5nBOuY": {
+            "tipo": "diario",
+            "duracao": 1,
+            "created_by": "1164942567608176691",
+            "created_at": "2025-07-07T00:35:53.415592",
+            "expires_at": "2025-07-08T00:35:53.413896",
+            "is_used": false,
+            "used_by": null,
+            "used_at": null
+        }
+    }
+}
